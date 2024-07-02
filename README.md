@@ -39,7 +39,7 @@ cd FloralFusion.Api
 dotnet ef database update
 ```
 
-#Run the application:
+# Run the application:
 
 ```sh
 dotnet run
@@ -90,4 +90,4 @@ Contributions are welcome! Please:
 # License
 - This project is licensed under the MIT License. See the LICENSE file for details.
 
-Feel free to modify this template to better suit the specific details and needs of your project.
+** Feel free to modify this template to better suit the specific details and needs of your project.**
