@@ -1,15 +1,15 @@
-**FloralFusion.Api**
+**FloralFusion.Api** <br>
 FloralFusion.Api is an ASP.NET Core Web API designed to manage a flower shop's inventory, orders, and customer interactions.<br> This API provides endpoints for handling various operations related to flowers, 
 orders, and customers.<br>
 
-Table of Contents
-Features
-Installation
-Usage
-Endpoints
-Contributing
-License
-Features
+# Table of Contents
+- Features
+- Installation
+- Usage
+- Endpoints
+-Contributing
+-License
+- Features
 Manage flower inventory (CRUD operations)
 Handle customer orders
 Customer management
