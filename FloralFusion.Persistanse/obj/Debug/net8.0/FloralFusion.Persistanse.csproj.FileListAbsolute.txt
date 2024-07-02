@@ -1,0 +1,15 @@
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\bin\Debug\net8.0\FloralFusion.Persistanse.deps.json
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\bin\Debug\net8.0\FloralFusion.Persistanse.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\bin\Debug\net8.0\FloralFusion.Persistanse.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.csproj.AssemblyReference.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.AssemblyInfoInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.AssemblyInfo.cs
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.csproj.CoreCompileInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\refint\FloralFusion.Persistanse.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFusion.Persistanse.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\ref\FloralFusion.Persistanse.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\bin\Debug\net8.0\FloralFusion.Domain.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\bin\Debug\net8.0\FloralFusion.Domain.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Persistanse\obj\Debug\net8.0\FloralFu.9A90FC7D.Up2Date

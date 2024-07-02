@@ -1,0 +1,14 @@
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\bin\Debug\net8.0\FloralFusion.Domain.deps.json
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\bin\Debug\net8.0\FloralFusion.Domain.runtimeconfig.json
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\bin\Debug\net8.0\FloralFusion.Domain.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\bin\Debug\net8.0\FloralFusion.Domain.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.csproj.AssemblyReference.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.AssemblyInfoInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.AssemblyInfo.cs
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\refint\FloralFusion.Domain.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\FloralFusion.Domain.genruntimeconfig.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Domain\obj\Debug\net8.0\ref\FloralFusion.Domain.dll

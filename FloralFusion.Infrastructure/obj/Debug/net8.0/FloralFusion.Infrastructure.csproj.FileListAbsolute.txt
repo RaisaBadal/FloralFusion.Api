@@ -1,0 +1,15 @@
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\bin\Debug\net8.0\FloralFusion.Infrastructure.deps.json
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\bin\Debug\net8.0\FloralFusion.Infrastructure.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\bin\Debug\net8.0\FloralFusion.Infrastructure.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\bin\Debug\net8.0\FloralFusion.Domain.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\bin\Debug\net8.0\FloralFusion.Domain.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.AssemblyInfo.cs
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFu.256B7648.Up2Date
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\refint\FloralFusion.Infrastructure.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\FloralFusion.Infrastructure.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Infrastructure\obj\Debug\net8.0\ref\FloralFusion.Infrastructure.dll

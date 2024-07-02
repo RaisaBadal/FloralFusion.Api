@@ -1,0 +1,17 @@
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Application.deps.json
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Application.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Application.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Domain.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Persistanse.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Domain.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\bin\Debug\net8.0\FloralFusion.Persistanse.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.csproj.AssemblyReference.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.AssemblyInfoInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.AssemblyInfo.cs
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.csproj.CoreCompileInputs.cache
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFu.E8E66599.Up2Date
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\refint\FloralFusion.Application.dll
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\FloralFusion.Application.pdb
+C:\Users\RAISA\source\repos\FloralFusion.API\FloralFusion.Application\obj\Debug\net8.0\ref\FloralFusion.Application.dll
